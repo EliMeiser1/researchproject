@@ -2,4 +2,4 @@
 new project= Sience and Fun 
 ## usage
 the gerneral purose is practice
-## FunFacts
+## FunFacts are indeed useful
