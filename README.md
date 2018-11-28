@@ -1,5 +1,5 @@
 # researchproject
-new project
+new project= Sience and Fun 
 ## usage
 the gerneral purose is practice
 ## FunFacts
